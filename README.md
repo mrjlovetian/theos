@@ -39,3 +39,7 @@ NIC 2.0 - New Instance Creator
 7. make package 打包工程
 8. make install 载入对应的deb包
 
+### linux、mac的bash和zsh如何切换
+chsh -s /bin/bash和chsh -s /bin/zsh可以永久切换，也就是一登录进来的就是相应的界面
+
+
